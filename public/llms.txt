@@ -1,0 +1,57 @@
+# חן דוד פור שמאית מקרקעין — Generative Engine Optimization Map
+
+> A real estate appraiser specializing in international clients (Israelis living abroad) who require professional property valuation services. The business emphasizes trust and reliability, offering comprehensive services including property appraisals for inheritance divisions, tax assessments, property reports for foreign declarations, and representation in urban renewal projects. The appraiser brings a unique background combining professional swimming achievements, psychology degree with dean's honors, military service, entrepreneurial experience in protected housing and urban renewal projects in Jerusalem, and current expertise as both an appraiser and real estate investor. The service includes full support with notarized translations, apostille signatures, and document shipping.
+
+---
+
+## Pages
+
+### בית
+https://-a6563057.zappy5.app
+שמאית מקרקעין מומחית לישראלים המתגוררים בחו״ל. שומות שווי נכס לחלוקת ירושה, הצהרות מס ותמ״א. שירות מלא כולל תרגום נוטריוני ואפוסטיל.
+
+### שירותים
+https://-a6563057.zappy5.app/services
+שירותי שמאות מקרקעין מותאמים לישראלים בחו״ל: דוחות שווי לחלוקת ירושה, הצהרות במס זר, ייצוג בפרויקטי התחדשות עירונית ותרגום מאושר.
+
+### תהליך ומסמכים
+https://-a6563057.zappy5.app/process
+מדריך מפורט לתהליך השמאות: המסמכים הנדרשים, שלבי ביצוע השומה, תרגום נוטריוני, חתימת אפוסטיל ומשלוח בינלאומי. הכל בליווי מקצועי ואישי.
+
+### צור קשר
+https://-a6563057.zappy5.app/contact
+זקוקים לשמאות מקרקעין מהירה ואמינה מחו״ל? צרו קשר עוד היום לקבלת ייעוץ ראשוני ללא עלות. זמינה לשיחה בכל שעה נוחה לכם בזמן המקומי שלכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-a6563057.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-a6563057.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-a6563057.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About חן דוד פור שמאית מקרקעין
+A real estate appraiser specializing in international clients (Israelis living abroad) who require professional property valuation services. The business emphasizes trust and reliability, offering comprehensive services including property appraisals for inheritance divisions, tax assessments, property reports for foreign declarations, and representation in urban renewal projects. The appraiser brings a unique background combining professional swimming achievements, psychology degree with dean's honors, military service, entrepreneurial experience in protected housing and urban renewal projects in Jerusalem, and current expertise as both an appraiser and real estate investor. The service includes full support with notarized translations, apostille signatures, and document shipping.
+
+## Target Audience
+לקוחות מחו"ל (ישראלים שגרים בחו"ל)
+
+## Industry
+נדל"ן ושמאות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-a6563057.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-a6563057.zappy5.app/robots.txt
